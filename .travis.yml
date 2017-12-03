@@ -20,4 +20,3 @@ deploy:
   app: ksiazekm-jaa-problems 
   on:
     repo: ksiazekm/JAlgoArena-Problems
-    tags: true
